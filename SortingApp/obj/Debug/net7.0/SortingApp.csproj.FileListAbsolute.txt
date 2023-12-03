@@ -1,0 +1,15 @@
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\SortingApp.csproj.AssemblyReference.cache
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\SortingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\SortingApp.AssemblyInfoInputs.cache
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\SortingApp.AssemblyInfo.cs
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\SortingApp.csproj.CoreCompileInputs.cache
+D:\Solutions\SortingApp\SortingApp\bin\Debug\net7.0\SortingApp.exe
+D:\Solutions\SortingApp\SortingApp\bin\Debug\net7.0\SortingApp.deps.json
+D:\Solutions\SortingApp\SortingApp\bin\Debug\net7.0\SortingApp.runtimeconfig.json
+D:\Solutions\SortingApp\SortingApp\bin\Debug\net7.0\SortingApp.dll
+D:\Solutions\SortingApp\SortingApp\bin\Debug\net7.0\SortingApp.pdb
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\SortingApp.dll
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\refint\SortingApp.dll
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\SortingApp.pdb
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\SortingApp.genruntimeconfig.cache
+D:\Solutions\SortingApp\SortingApp\obj\Debug\net7.0\ref\SortingApp.dll
